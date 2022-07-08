@@ -19,8 +19,10 @@
   },
   "homepage": "https://github.com/sdhanrajaxioned/user_management_JSON#readme",
   "dependencies": {
+    "body-parser": "^1.20.0",
     "express": "^4.18.1",
     "express-validator": "^6.14.2",
-    "nodemon": "^2.0.19"
+    "nodemon": "^2.0.19",
+    "validator": "^13.7.0"
   }
 }

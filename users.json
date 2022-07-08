@@ -1,17 +1,22 @@
 [
   {
     "id": "1",
-    "name": "Dhanraj",
+    "username": "dhanraj",
     "role": "Admin"
   },
   {
     "id": "2",
-    "name": "Pranav",
+    "username": "pranav",
     "role": "Basic"
   },
   {
     "id": "3",
-    "name": "Sreeram",
+    "username": "sreeram",
     "role": "Basic"
+  },
+  {
+    "id": "6",
+    "username": "dhanrajshetty",
+    "role": "basic"
   }
 ]
