@@ -2,21 +2,16 @@
   {
     "id": "1",
     "username": "dhanraj",
-    "role": "Admin"
+    "role": "admin"
   },
   {
-    "id": "6",
-    "username": "dhanrajshetty",
-    "role": "basic"
-  },
-  {
-    "id": "7",
+    "id": "4",
     "username": "tejesh",
     "role": "basic"
   },
   {
-    "id": "10",
-    "username": "sreeram",
+    "username": "saurabh",
+    "id": "5",
     "role": "basic"
   }
 ]
