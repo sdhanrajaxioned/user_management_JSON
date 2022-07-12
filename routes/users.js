@@ -1,6 +1,6 @@
 const express = require('express');
 const bodyParser = require('body-parser');
-const expressValidator = require('express-validator')
+const expressValidator = require('express-validator');
 const {body, validationResult } = require('express-validator');
 const { getUser, saveUser } = require('../utils/util-func');
 const router = express.Router();
